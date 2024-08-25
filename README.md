@@ -13,6 +13,4 @@
 
 
 ### Herramientas en las que me destaco:
-![Javascript](https://img.shields.io/badge/Lenguajes-Javascript-yellow)
-![React](https://img.shields.io/badge/Framework-React-blue)
-![Jira](https://img.shields.io/badge/Agile-Jira-green)
+
